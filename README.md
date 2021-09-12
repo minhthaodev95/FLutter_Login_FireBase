@@ -1,1 +1,1 @@
-#Hom nay là ngay chu nhat
+# Đây là file REDME 
